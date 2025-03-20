@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bannason
+- 👋 Hi, I’m Bannason Thongaon (Nueng)
 - 👀 I’m interested in Programming, Data Analytics, AI/Machine Learning, and Web Development
 - 🌱 I’m currently learning new technologies to expand my skills, especially in Full Stack Development and AI.
 - 💞️ I’m looking to collaborate on projects that involve building scalable applications and exploring innovative solutions in tech.
